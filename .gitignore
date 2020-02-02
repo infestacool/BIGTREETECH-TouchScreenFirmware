@@ -119,3 +119,5 @@ cmake-build-*
 .pydevproject
 .settings
 .classpath
+*.icloud
+Copy to SD Card root directory to update - Unified Menu Material theme/desktop.ini
